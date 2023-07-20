@@ -14,7 +14,7 @@ else
 int i;
 for (i = 1; i <= n; i++)
 {
-putchar('');
+putchar('_');
 }
 _putchar('\n');
 }
