@@ -1,13 +1,7 @@
-include "main.h"
+#include "main.h"
 /**
-* positive_or_negative -
+* positive_or_negative - Print if the given integer.
 * @i: The integer to be checked.
-*
-* This function takes an integer as input
-* If the integer is positive, it prints "<number> is positive".
-* If the integer is negative, it prints "<number> is negative".
-* If the integer is zero, it prints "<number> is zero".
-* The function does not return anything (void).
 */
 void positive_or_negative(int i)
 {
